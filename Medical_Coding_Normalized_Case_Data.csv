@@ -1,0 +1,9 @@
+Case ID,Patient,Country,Product,Dose,Route,Indication,Reported Event,Coding Term,Onset,Outcome,Seriousness,Expectedness,Concomitant Information,Missing Information
+PV-101,Female 34 years old,India,Velunex,Nil,Nil,Nil,Nausea,Nausea,3 hrs,Recovered,Non-serious,Expected,Nil,Reporter information, Route, Dose, Indication
+PV-102,Male 61 years old,India,Velunex,Nil,Nil,Nil,Loss of consciousness,Loss of consciousness,2 days,Recovery,Serious - Hospitalization,Unexpected,Unknown,Reporter information, Clinical diagnosis, Investigations
+PV-103,Female 27 years old,United Kingdom,Velunex,Nil,Nil,Nil,Minor rash,Rash,4 days,Recovered,Non-serious,Expected,No repeat challenge,Reporter information, Rash description, Treatment
+PV-104,Gender/age unknown,India,Velunex,Nil,Nil,Nil,Appendicitis,Appendicitis,3 weeks,Recovered,Serious - Hospitalisation,Unexpected,Incomplete medical history,Patient information, Reporter information, Diagnostic results, Treatment Case ID,Patient,Country,Product,Dose,Route,Indication,Reported Event,Coding Term,Onset,Outcome,Seriousness,Expectedness,Concomitant Information,Missing Information
+PV-101,Female 34 years old,India,Velunex,Nil,Nil,Nil,Nausea,Nausea,3 hrs,Recovered,Non-serious,Expected,Nil,Reporter information, Route, Dose, Indication
+PV-102,Male 61 years old,India,Velunex,Nil,Nil,Nil,Loss of consciousness,Loss of consciousness,2 days,Recovery,Serious - Hospitalization,Unexpected,Unknown,Reporter information, Clinical diagnosis, Investigations
+PV-103,Female 27 years old,United Kingdom,Velunex,Nil,Nil,Nil,Minor rash,Rash,4 days,Recovered,Non-serious,Expected,No repeat challenge,Reporter information, Rash description, Treatment
+PV-104,Gender/age unknown,India,Velunex,Nil,Nil,Nil,Appendicitis,Appendicitis,3 weeks,Recovered,Serious - Hospitalisation,Unexpected,Incomplete medical history,Patient information, Reporter information, Diagnostic results, Treatment
